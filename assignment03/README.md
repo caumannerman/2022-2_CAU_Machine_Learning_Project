@@ -1,3 +1,17 @@
-# 2022-2_CAU_Machine_Learning_Project
+# 2022-2_CAU_Machine_Learning_Project assignment03
 Repository for the assignment of the class machine learning project, CAU, 2022-2 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hgI2iAFlCgPgeLQGVWVLOPq5-POVHiWM?hl=ko#scrollTo=U1PvreR9L9eW)
+ 
+# keyword
+- weight with bias
+- stochastic gradient descent
+- regularization - weight decay ( 조금식 부식되는 것처럼 update )
+
+## 과제 
+- [03_assignment_03.pdf](https://github.com/caumannerman/2022-2_CAU_Machine_Learning_Project/files/9691920/03_assignment_03.pdf)
+
+
+
+## 블로그 정리 글 
+- 
+
+## 블로그 정리 내용 
