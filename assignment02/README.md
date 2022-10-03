@@ -2,9 +2,9 @@
 Repository for the assignment of the class machine learning project, CAU, 2022-2 
  
 # keyword
-- weight with bias
-- stochastic gradient descent
-- regularization - weight decay ( 조금식 부식되는 것처럼 update )
+- sigmoid
+- gradient descent
+- cross-entropy
 
 ## 과제 
 - [02_assignment_02..pdf](https://github.com/caumannerman/2022-2_CAU_Machine_Learning_Project/files/9691919/02_assignment_02.pdf)
