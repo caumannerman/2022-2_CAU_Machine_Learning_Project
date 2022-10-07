@@ -17,3 +17,7 @@ Repository for the assignment of the class machine learning project, CAU, 2022-2
 <img width="726" alt="스크린샷 2022-09-25 오후 2 38 36" src="https://user-images.githubusercontent.com/75043852/192129995-a2d35294-2704-4992-adb7-71c37d83c9e0.png">
 <img width="884" alt="스크린샷 2022-09-25 오후 2 38 47" src="https://user-images.githubusercontent.com/75043852/192130004-43b2add4-f81f-4ae9-af73-66ce2c8fcfdc.png">
 <img width="884" alt="스크린샷 2022-09-25 오후 2 38 58" src="https://user-images.githubusercontent.com/75043852/192130008-fc998d85-f01c-4115-8a8f-cfb697219595.png">
+<img width="884" alt="스크린샷 2022-09-25 오후 2 38 58" src="https://user-images.githubusercontent.com/75043852/194543833-5711e37d-bc10-4911-9dd9-a21cbd6430b4.jpeg">
+<img width="884" alt="스크린샷 2022-09-25 오후 2 38 58" src="https://user-images.githubusercontent.com/75043852/194543841-9f46aefd-ca57-43df-8175-92cf38892933.jpeg">
+<img width="884" alt="스크린샷 2022-09-25 오후 2 38 58" src="https://user-images.githubusercontent.com/75043852/194543852-53f563cb-872c-4f99-b8ff-4d7fc1f23b27.jpeg">
+<img width="884" alt="스크린샷 2022-09-25 오후 2 38 58" src="https://user-images.githubusercontent.com/75043852/194543859-fc995aaa-2dad-40df-aa81-45bb15b0c1a3.jpeg">
