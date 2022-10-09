@@ -4,7 +4,7 @@ Repository for the assignment of the class machine learning project, CAU, 2022-2
 # keyword
 
 - pytorch ( Conv2d, MaxPool2d, ReLU, Linear, CrossEntropyLoss )
-- neural network architecture
+- neural network architecture ( In this Code, We use Convolution Layer -> MaxPooling -> ReLU )
 - stochastic gradient descent
 - weight decay
 - softmax and cross entropy
