@@ -2,9 +2,14 @@
 Repository for the assignment of the class machine learning project, CAU, 2022-2 
  
 # keyword
-- weight with bias
+
+- pytorch
+- neural network architecture
 - stochastic gradient descent
-- regularization - weight decay ( 조금식 부식되는 것처럼 update )
+- weight decay
+- softmax and cross entropy
+
+
 
 ## 과제 
 - [06_assignment.pdf](https://github.com/caumannerman/2022-2_CAU_Machine_Learning_Project/files/9741951/06_assignment.pdf)
