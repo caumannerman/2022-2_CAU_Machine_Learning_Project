@@ -12,7 +12,8 @@ Repository for the assignment of the class machine learning project, CAU, 2022-2
 
 
 ## 과제 
-- [06_assignment.pdf](https://github.com/caumannerman/2022-2_CAU_Machine_Learning_Project/files/9741951/06_assignment.pdf)
+- [07:assignment_07.md.pdf](https://github.com/caumannerman/2022-2_CAU_Machine_Learning_Project/files/9929261/07.assignment_07.md.pdf)
+
 - ### Model Architecture 설계 
 - #### -> Conv->MaxPooling->ReLU만 반복해서 사용하되, 몇 번 사용해도 상관 없다.
 - #### -> Classification Layer에서도 Linear(FC)-ReLU 를 몇 번 사용해도 상관 없다.
