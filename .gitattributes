@@ -2,3 +2,4 @@ assignment_06_data.npz filter=lfs diff=lfs merge=lfs -text
 assignment_07_data.npz filter=lfs diff=lfs merge=lfs -text
 assignment_08_data.npz filter=lfs diff=lfs merge=lfs -text
 assignment_09_data.npz filter=lfs diff=lfs merge=lfs -text
+assignment_09data.npz filter=lfs diff=lfs merge=lfs -text
